@@ -1,6 +1,6 @@
 # Nutrinet
 Equichacks s1 project
-NutriNet is our hackathone project on the topic "food". We have tried our best to make this project and hope you will like it aswell. 
+NutriNet is our hackathon project on the topic "food". We have tried our best to make this project and hope you will like it aswell. 
 NutriNet has 5 main pages:
 1. Home page - we have a very moderate homepage that showcases the basic design of a restaurant style website.
 2. Nutrition - this page contains basic info about health and nutrition and foods that are great source for nutrition.
